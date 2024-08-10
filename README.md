@@ -8,7 +8,12 @@
   <li><strong>Case:</strong> HP Compaq 6005 Pro SFF</li>
   <li><strong>CPU:</strong> AMD Athlon II x2 B24 3GHz</li>
   <li><strong>RAM:</strong> 32GB (upgraded from 4GB)</li>
-  <li><strong>Storage:</strong> Two mismatched HDDs</li>
+  <li><strong>Storage:</strong> Two mismatched HDDs:
+    <ul>
+      <li><strong>Disk 1:</strong> ST1000DM003-1CH162_S1DDWJ5V - 1 TB</li>
+      <li><strong>Disk 2:</strong> WDC_WD1002FBYS-18W8B0 - 1 TB</li>
+    </ul>
+  </li>
   <li><strong>Planned Upgrade:</strong> 4-bay 2.5" SSD caddy (replacing the DVD drive)</li>
 </ul>
 
