@@ -28,4 +28,11 @@
   <li><strong>Backblaze Personal Backup</strong>: For secure cloud backup of important data.</li>
 </ul>
 
+<h3>Plugins:</h3>
+<ul>
+  <li><strong>Unassigned Devices</strong>: For managing drives not assigned to the array.</li>
+  <li><strong>Unassigned Devices Preclear</strong>: For preclearing drives before adding them to the array.</li>
+  <li><strong>Dynamix File Manager</strong>: For managing files and directories on the server.</li>
+</ul>
+
 <p>This setup offers a comprehensive solution for managing and consuming my media collection, with automated tools ensuring everything stays organized and up to date. Future upgrades will enhance storage capacity and flexibility.</p>
