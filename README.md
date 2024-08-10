@@ -25,7 +25,7 @@
   <li><strong>Lidarr</strong>: Managing and downloading music.</li>
   <li><strong>Soulseek</strong>: For peer-to-peer file sharing.</li>
   <li><strong>SABnzbd & NZBGet</strong>: Usenet downloaders for handling automated media downloads.</li>
-  <li><strong>Backblaze Personal Backup</strong>: For secure cloud backup of important data.</li>
+  <li><strong>Duplicatip</strong>: For secure cloud backup of important data.</li>
 </ul>
 
 <h3>Plugins:</h3>
