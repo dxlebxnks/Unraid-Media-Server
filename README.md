@@ -36,3 +36,42 @@
 </ul>
 
 <p>This setup offers a comprehensive solution for managing and consuming my media collection, with automated tools ensuring everything stays organized and up to date. Future upgrades will enhance storage capacity and flexibility.</p>
+
+<h2>Skills Required for Unraid Server Setup</h2>
+
+<p>Setting up and managing an Unraid server involves a range of skills and knowledge. Here's a breakdown of the key skills required:</p>
+
+<h3>1. Basic Hardware Knowledge</h3>
+<ul>
+  <li><strong>Understanding of Computer Components:</strong> Knowledge about different hardware components like CPUs, RAM, HDDs, SSDs, and their installation.</li>
+  <li><strong>Drive Configuration:</strong> Ability to handle mismatched drives and understand their impact on storage performance and data management.</li>
+</ul>
+
+<h3>2. Operating System and Software Management</h3>
+<ul>
+  <li><strong>Linux Basics:</strong> Familiarity with Linux command line for managing the Unraid server, as Unraid is based on a Linux kernel.</li>
+  <li><strong>Unraid OS:</strong> Understanding of Unraid’s web interface for managing disks, shares, and settings.</li>
+</ul>
+
+<h3>3. Networking</h3>
+<ul>
+  <li><strong>Basic Networking Concepts:</strong> Knowledge of IP addressing, network configuration, and troubleshooting.</li>
+  <li><strong>Port Forwarding and Firewall Rules:</strong> Ability to configure these settings for remote access to applications like Plex.</li>
+</ul>
+
+<h3>4. Docker and Container Management</h3>
+<ul>
+  <li><strong>Docker Basics:</strong> Understanding how to set up, configure, and manage Docker containers.</li>
+  <li><strong>Container Configuration:</strong> Knowledge of configuring containers for specific applications, including network settings and data volume management.</li>
+</ul>
+
+<h3>5. Application Configuration</h3>
+<ul>
+  <li><strong>Media Applications:</strong> Familiarity with configuring media management tools like Plex, Sonarr, Radarr, Lidarr, and how they interact with each other.</li>
+  <li><strong>Usenet Downloaders:</strong> Knowledge of setting up and configuring SABnzbd and NZBGet for automated downloads.</li>
+</ul>
+
+<h3>6. Backup and Data Protection</h3>
+<ul>
+  <li><strong>Backup Strategies:</strong> Understanding of how to set up and manage backups, including using services like Backblaze for cloud backup.</li>
+  <li><strong>Data Recovery:</strong> Basic skills in recovering data from different 
